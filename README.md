@@ -47,3 +47,4 @@ integrating AI tools into web projects — a skill set most junior candidates do
 ### Connect
 
 - LinkedIn: [linkedin.com/in/iryna-greshchuk-3a9807337](#)
+- Portfolio: [https://iryna-greshchuk.netlify.app/#]
